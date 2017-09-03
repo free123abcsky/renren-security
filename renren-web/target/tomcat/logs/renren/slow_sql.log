@@ -1,0 +1,1 @@
+[2017-09-03 12:51:38] slow sql 1006 millis. select * from sys_menu where parent_id = ? order by order_num asc[0] 
